@@ -16,9 +16,9 @@ My note for the RSS feed URLs of some websites.
 
 - Main feed:`https://dev.to/feed/`
 
-- Author feed: `https://dev.to/feed/[username]
+- Author feed: `https://dev.to/feed/[username]`
 
-- Tag feed: https://dev.to/feed/tag/[tag]`
+- Tag feed: `https://dev.to/feed/tag/[tag]`
 
 ## Matters.news
 
