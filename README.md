@@ -40,6 +40,30 @@ My note for the RSS feed URLs of some websites.
 
 - Sort by latest: `?sort=new`
 
+## SoundOn
+
+- `https://rss.soundon.fm/rss/tracks/[uuid]/feed.xml`
+
+- `https://api.soundon.fm/v2/[uuid]/feed.xml`
+
+  - Find `uuid` in `https://player.soundon.fm/p/[uuid]`
+
+## SoundCloud
+
+- `https://feeds.soundcloud.com/users/soundcloud:users:[uid]/sounds.rss`
+
+  - Find `uid` in HTML meta tag
+
+  - `<meta property="twitter:app:url:googleplay" content="soundcloud://users:[uid]">`
+
+## open.firstory.me
+
+- `https://open.firstory.me/rss/user/[user hash id]`
+
+  - `https://open.firstory.me/user/[user hash id]`
+
+  - `user hash id` is something like `ck4uoyyi7f27a0b264u9w8rcp`
+
 ## RSSHub
 
 Convert website posts to RSS feeds. [Docs](https://docs.rsshub.app/).
