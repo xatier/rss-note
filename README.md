@@ -42,7 +42,7 @@ My note for the RSS feed URLs of some websites.
 
 ## SoundOn
 
-- `https://rss.soundon.fm/rss/tracks/[uuid]/feed.xml`
+- `https://feeds.soundon.fm/podcasts/[uuid].xml`
 
 - `https://api.soundon.fm/v2/[uuid]/feed.xml`
 
