@@ -20,6 +20,12 @@ My note for the RSS feed URLs of some websites.
 
 - Tag feed: `https://dev.to/feed/tag/[tag]`
 
+## Qiita.com
+
+- Main feed:`https://qiita.com/popular-items/feed.atom`
+
+- Tag feed:`http://qiita.com/tags/[tag]/feed.atom`
+
 ## Matters.news
 
 - Author feed: `https://rsshub.app/matters/author/[username]`
