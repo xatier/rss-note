@@ -4,13 +4,15 @@ My note for the RSS feed URLs of some websites.
 
 ## Medium.com
 
-- Author feed: `https://medium.com/feed/@[user]`
+- Author feed: `https://medium.com/feed/@[user]` or `https://user.medium.com/feed`
 
 - Publication feed: `https://medium.com/feed/[publisher]`
 
 - Tagged pages in publications: `https://medium.com/feed/[publisher]/tagged/[tag]`
 
 - Custom domains: `https://some.domain.com/feed`
+
+- [Reference](https://help.medium.com/hc/en-us/articles/214874118-Using-RSS-feeds-of-profiles-publications-and-topics)
 
 ## dev.to
 
