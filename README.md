@@ -32,6 +32,12 @@ My note for the RSS feed URLs of some websites.
 
 - Author feed: `https://rsshub.app/matters/author/[username]`
 
+## Vocus
+
+- Publication feed: `https://rsshub.app/vocus/publication/[publication]`
+
+- Author: `https://rsshub.app/vocus/user/[user]`
+
 ## Reddit
 
 - Home page: `https://www.reddit.com/.rss`
