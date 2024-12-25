@@ -34,9 +34,9 @@ My note for the RSS feed URLs of some websites.
 
 ## Vocus
 
-- Publication feed: `https://rsshub.app/vocus/publication/[publication]`
+- Publication feed: `https://feed.cqd.tw/vocus/publication/[publication]`
 
-- Author: `https://rsshub.app/vocus/user/[user]`
+- Author: `https://feed.cqd.tw/vocus/user/[user]`
 
 ## Reddit
 
